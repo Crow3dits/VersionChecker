@@ -1,7 +1,266 @@
 [
     {
-        "script":"estrp-pacificbankeuro",
-        "version":"2.0.1",
-        "updatenotes": "test"
+        "script": "estrp-carrierheist",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Carrier Heist"
+    },
+    {
+        "script": "estrp-fleecadefault",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Fleeca Default"
+    },
+    {
+        "script": "estrp-jewelsdefault",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Jewels Default"
+    },
+    {
+        "script": "estrp-pacificbankdefault",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Pacific Bank Default"
+    },
+    {
+        "script": "estrp-paletobankdefault",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Paleto Bank Default"
+    },
+    {
+        "script": "estrp-shoprobberydefault",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Shop Robbery Default"
+    },
+    {
+        "script": "estrp-unionheist",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Union Depository Heist"
+    },
+    {
+        "script": "estrp-weapheist",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Merryweather HQ Heist"
+    },
+    {
+        "script": "estrp-yachtheist",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Yacht Heist"
+    },
+    {
+        "script": "estrp-fmfleeca",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "FM Fleeca"
+    },
+    {
+        "script": "estrp-fmjewels",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "FM Jewels"
+    },
+    {
+        "script": "estrp-fmshoprobberynoltdmap",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "FM Shop Robbery No LTD Map"
+    },
+    {
+        "script": "estrp-fmshoprobberyltdmap",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "FM Shop Robbery With LTD Map"
+    },
+    {
+        "script": "estrp-gabzbobcat",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Gabz Bobcat"
+    },
+    {
+        "script": "estrp-gabzpaficicbank",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Gabz Pacific Bank"
+    },
+    {
+        "script": "estrp-gabzpaletobank",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Gabz Paleto Bank"
+    },
+    {
+        "script": "estrp-gabzshoprobbery",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Gabz Shop Robbery"
+    },
+    {
+        "script": "estrp-k4mb1artgallery",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Art Gallery"
+    },
+    {
+        "script": "estrp-k4mb1bobcat",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Bobcat"
+    },
+    {
+        "script": "estrp-k4mb1casino",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Casino"
+    },
+    {
+        "script": "estrp-k4mb1fleeca",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Fleeca"
+    },
+    {
+        "script": "estrp-k4mb1mazebank",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Maze Bank"
+    },
+    {
+        "script": "estrp-k4mb1pacificbank",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Pacific Bank"
+    },
+    {
+        "script": "estrp-k4mb1paletobank",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Paleto Bank"
+    },
+    {
+        "script": "estrp-k4mb1underground",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Underground"
+    },
+    {
+        "script": "estrp-k4mb1vangelico",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 Vangelico"
+    },
+    {
+        "script": "estrp-k4mb1xgems",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "K4MB1 X Gems"
+    },
+    {
+        "script": "estrp-kiiyar68robbery",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Kiiyar 68 Robbery"
+    },
+    {
+        "script": "estrp-kingmapsfleeca",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Kingmaps Fleeca"
+    },
+    {
+        "script": "estrp-kivofleeca",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Kivo Fleeca"
+    },
+    {
+        "script": "estrp-lumifleeca",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Lumi Fleeca"
+    },
+    {
+        "script": "estrp-molocasino",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Molo Casino"
+    },
+    {
+        "script": "estrp-moloammunation",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Molo Ammu-Nation"
+    },
+    {
+        "script": "estrp-molopacificbank",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Molo Pacific Bank"
+    },
+    {
+        "script": "estrp-mxcbranches",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "MXC Branches"
+    },
+    {
+        "script": "estrp-mxcjewels",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "MXC Jewels"
+    },
+    {
+        "script": "estrp-mxcliquor",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "MXC Liquor"
+    },
+    {
+        "script": "estrp-nposmalljewels",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "NPO Small Jewels"
+    },
+    {
+        "script": "estrp-pfjewels",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "PF Jewels"
+    },
+    {
+        "script": "estrp-rfcjewels",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "RFC Jewels"
+    },
+    {
+        "script": "estrp-roxwoodbanks",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Roxwood Banks"
+    },
+    {
+        "script": "estrp-tstudiofleeca",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "T Studio Fleeca"
+    },
+    {
+        "script": "estrp-wxfleeca",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "WX Fleeca"
+    },
+    {
+        "script": "estrp-pacificbankeuro",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "Pacific Bank Euro"
     }
 ]
