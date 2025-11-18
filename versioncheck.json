@@ -262,5 +262,11 @@
         "version": "2.0.0",
         "updatenotes": "None Yet",
         "fullname": "Pacific Bank Euro"
+    },
+    {
+        "script": "estrp-doorsystem",
+        "version": "2.0.0",
+        "updatenotes": "None Yet",
+        "fullname": "DoorSystem"
     }
 ]
