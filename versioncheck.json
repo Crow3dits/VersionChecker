@@ -265,8 +265,8 @@
     },
     {
         "script": "estrp-doorsystem",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.0.1",
+        "updatenotes": "Added Missing Roxwood bank zones. Fixed issue where script didn't lock roxwood bank doors.",
         "fullname": "DoorSystem"
     }
 ]
