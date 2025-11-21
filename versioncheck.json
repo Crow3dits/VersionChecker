@@ -265,8 +265,8 @@
     },
     {
         "script": "estrp-doorsystem",
-        "version": "2.0.1",
-        "updatenotes": "Added Missing Roxwood bank zones. Fixed issue where script didn't lock roxwood bank doors. Fixed issue where store robbery zones were not removed and added correctly.",
+        "version": "2.0.02",
+        "updatenotes": "Fixed K4MB1 Bobcat Vault door heading.",
         "fullname": "DoorSystem"
     }
 ]
