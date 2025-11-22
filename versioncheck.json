@@ -7,8 +7,8 @@
     },
     {
         "script": "estrp-fleecadefault",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.0.1",
+        "updatenotes": "Fixed Hawick 2 vault door openheading (Updated Shared/Config.lua). Download new update from the keymaster or CFX Portal",
         "fullname": "Fleeca Default"
     },
     {
