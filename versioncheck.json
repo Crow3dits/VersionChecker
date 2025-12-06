@@ -258,8 +258,8 @@
         "fullname": "WX Fleeca"
     },
     {
-        "script": "estrp-pacificbankeuro",
-        "version": "2.0.0",
+        "script": "estrp-europacificbank",
+        "version": "2.1.0",
         "updatenotes": "None Yet",
         "fullname": "Pacific Bank Euro"
     },
