@@ -85,8 +85,8 @@
     },
     {
         "script": "estrp-gabzpaficicbank",
-        "version": "2.0.1",
-        "updatenotes": "Hotfix: Fixed issue where manager safe did not give rewards.",
+        "version": "2.1.0",
+        "updatenotes": "Hotfix: Fixed possible syncinc issues with trolleys.",
         "fullname": "Gabz Pacific Bank"
     },
     {
