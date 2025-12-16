@@ -266,7 +266,7 @@
     {
         "script": "estrp-doorsystem",
         "version": "2.0.3",
-        "updatenotes": "Fixed Gabz Pacific bank vault cell door hash ID-s.",
+        "updatenotes": "Pushed Fixes: Updated Gabz Pacific bank vault cell door hash ID-s.",
         "fullname": "DoorSystem"
     }
 ]
