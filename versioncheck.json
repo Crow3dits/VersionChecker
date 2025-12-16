@@ -85,8 +85,8 @@
     },
     {
         "script": "estrp-gabzpaficicbank",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.0.1",
+        "updatenotes": "Hotfix: Fixed issue where manager safe did not give rewards.",
         "fullname": "Gabz Pacific Bank"
     },
     {
@@ -265,8 +265,8 @@
     },
     {
         "script": "estrp-doorsystem",
-        "version": "2.0.02",
-        "updatenotes": "Fixed K4MB1 Bobcat Vault door heading.",
+        "version": "2.0.3",
+        "updatenotes": "Fixed Gabz Pacific bank vault cell door hash ID-s.",
         "fullname": "DoorSystem"
     }
 ]
