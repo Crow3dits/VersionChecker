@@ -19,8 +19,8 @@
     },
     {
         "script": "estrp-pacificbankdefault",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.1.0",
+        "updatenotes": "Pushed update to trolley grabbing and to vitrine grabbin syncronisation",
         "fullname": "Pacific Bank Default"
     },
     {
@@ -264,9 +264,21 @@
         "fullname": "Pacific Bank Euro"
     },
     {
+        "script": "estrp-atlantisfleeca",
+        "version": "2.1.0",
+        "updatenotes": "None Yet",
+        "fullname": "Atlantis Bay Fleeca"
+    },
+    {
+        "script": "estrp-atlantisjewels",
+        "version": "2.1.0",
+        "updatenotes": "None Yet",
+        "fullname": "Atlantis Bay Jewels"
+    },
+    {
         "script": "estrp-doorsystem",
-        "version": "2.0.3",
-        "updatenotes": "Pushed Fixes: Updated Gabz Pacific bank vault cell door hash ID-s.",
+        "version": "2.1.0",
+        "updatenotes": "Added new maps to the system.",
         "fullname": "DoorSystem"
     }
 ]
