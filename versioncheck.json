@@ -8,7 +8,7 @@
     {
         "script": "estrp-fleecadefault",
         "version": "2.1.0",
-        "updatenotes": "Objects (Panels) are spawned now by distance of a player to the fleeca bank, instead of existing all the time, also updated grabbing function to force trolley networking..",
+        "updatenotes": "Syncing updates, fixed smaller bugs, also updated grabbing function to force trolley networking..",
         "fullname": "Fleeca Default"
     },
     {
@@ -187,8 +187,8 @@
     },
     {
         "script": "estrp-molocasino",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.1.0",
+        "updatenotes": "Syncing updates, fixed smaller bugs, Added lasers (mka-lasers needed).",
         "fullname": "Molo Casino"
     },
     {
@@ -199,8 +199,8 @@
     },
     {
         "script": "estrp-molopacificbank",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.1.0",
+        "updatenotes": "Syncing updates, fixed smaller bugs, Added new features: Lasers (mka-lasers needed), also added a money truck, guards and additional trolleys to the garage",
         "fullname": "Molo Pacific Bank"
     },
     {
@@ -235,8 +235,8 @@
     },
     {
         "script": "estrp-rfcjewels",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.1.0",
+        "updatenotes": "Syncing updates",
         "fullname": "RFC Jewels"
     },
     {
@@ -278,7 +278,7 @@
     {
         "script": "estrp-doorsystem",
         "version": "2.1.0",
-        "updatenotes": "Added new maps to the system.",
+        "updatenotes": "Added new maps to the system, Updated Molo Pacific Bank Doors.",
         "fullname": "DoorSystem"
     }
 ]
