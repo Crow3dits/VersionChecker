@@ -205,8 +205,8 @@
     },
     {
         "script": "estrp-mxcbranches",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.1.0",
+        "updatenotes": "Syncing updates, Experimental version of curtain lowering and raising test.",
         "fullname": "MXC Branches"
     },
     {
