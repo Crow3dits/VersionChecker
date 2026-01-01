@@ -37,8 +37,8 @@
     },
     {
         "script": "estrp-unionheist",
-        "version": "2.0.0",
-        "updatenotes": "None Yet",
+        "version": "2.1.0",
+        "updatenotes": "A lot of fixes and new update, More info available from our discord announcement channel",
         "fullname": "Union Depository Heist"
     },
     {
@@ -277,8 +277,8 @@
     },
     {
         "script": "estrp-doorsystem",
-        "version": "2.1.0",
-        "updatenotes": "Added new maps to the system, Updated Molo Pacific Bank Doors.",
+        "version": "2.1.1",
+        "updatenotes": "Added new doors for Union Depository Heist.",
         "fullname": "DoorSystem"
     }
 ]
