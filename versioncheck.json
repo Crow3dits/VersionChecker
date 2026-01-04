@@ -277,8 +277,8 @@
     },
     {
         "script": "estrp-doorsystem",
-        "version": "2.1.1",
-        "updatenotes": "Added new doors for Union Depository Heist.",
+        "version": "2.1.2",
+        "updatenotes": "Fixed door headings for Casino heist, Accordingly to K4MB1 Vault updates.",
         "fullname": "DoorSystem"
     }
 ]
