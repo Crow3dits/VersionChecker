@@ -79,8 +79,8 @@
     },
     {
         "script": "estrp-gabzbobcat",
-        "version": "2.1.0",
-        "updatenotes": "Syncing Fixes, Added discord logging to server side config (Server Folder), replace the whole script.",
+        "version": "2.1.1",
+        "updatenotes": "Fixed Issue with the fusebox not opening doors correctly, Replace:Client/main.lua.",
         "fullname": "Gabz Bobcat"
     },
     {
@@ -109,8 +109,8 @@
     },
     {
         "script": "estrp-k4mb1bobcat",
-        "version": "2.1.0",
-        "updatenotes": "Syncing Fixes, Added discord logging to server side config (Server Folder), replace the whole script.",
+        "version": "2.1.1",
+        "updatenotes": "Fixed Issue with the fusebox not opening doors correctly, Replace:Client/main.lua.",
         "fullname": "K4MB1 Bobcat"
     },
     {
@@ -151,14 +151,14 @@
     },
     {
         "script": "estrp-k4mb1vangelico",
-        "version": "2.1.0",
-        "updatenotes": "Syncing Fixes, Added discord logging to server side config (Server Folder), replace the whole script.",
+        "version": "2.1.1",
+        "updatenotes": "Fixed Issue with the fusebox not opening doors correctly, Replace:Client/main.lua.",
         "fullname": "K4MB1 Vangelico"
     },
     {
         "script": "estrp-k4mb1xgems",
-        "version": "2.1.0",
-        "updatenotes": "Syncing Fixes, Added discord logging to server side config (Server Folder), replace the whole script.",
+        "version": "2.1.1",
+        "updatenotes": "Fixed Issue with the fusebox not opening doors correctly, Replace:Client/main.lua.",
         "fullname": "K4MB1 X Gems"
     },
     {
