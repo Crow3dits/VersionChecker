@@ -115,8 +115,8 @@
     },
     {
         "script": "estrp-k4mb1casino",
-        "version": "2.1.0",
-        "updatenotes": "Syncing Fixes, Added discord logging to server side config (Server Folder), replace the whole script.",
+        "version": "2.1.1",
+        "updatenotes": "Fixed Issue with the fusebox not opening doors correctly, Replace:Client/main.lua.",
         "fullname": "K4MB1 Casino"
     },
     {
